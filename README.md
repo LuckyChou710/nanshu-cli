@@ -1,15 +1,58 @@
-```
-Usage: YepGym [options] [command]
+<div align="center">
+<h1>NANSHU-CLI</h1>
 
- __    __              ____                        __
-/\ \  /\ \            /\  _`\                     /\ \
-\ `\`\\/'/  __   _____\ \ \L\_\  __  __    ___ ___\ \ \
- `\ `\ /' /'__`\/\ '__`\ \ \L_L /\ \/\ \ /' __` __`\ \ \
-   `\ \ \/\  __/\ \ \L\ \ \ \/, \ \ \_\ \/\ \/\ \/\ \ \_\
-     \ \_\ \____\\ \ ,__/\ \____/\/`____ \ \_\ \_\ \_\/\_\
-      \/_/\/____/ \ \ \/  \/___/  `/___/> \/_/\/_/\/_/\/_/
-                   \ \_\             /\___/
-                    \/_/             \/__/
+<br />
+
+<a href="https://github.com/LuckyChou710/nanshu-ui">
+  <img
+    height="80"
+    width="80"
+    alt=""
+    src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon3.png"
+  />
+  <img
+    height="80"
+    width="80"
+    alt=""
+    src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon27.png"
+  />
+  <img
+    height="80"
+    width="80"
+    alt=""
+    src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon5.png"
+  />
+</a>
+
+<br />
+
+<br />
+  
+掘金主页 [juejin](https://juejin.cn/user/1574156383563496) ( 更新中 🏠 )
+
+个人博客 [blog](https://luckychou.gitbook.io/blog/)( 停止维护 ⚠️ )
+
+学习笔记 [code-traveling](https://github.com/LuckyChou710/code-traveling) ( codeing 🧑‍💻 )
+
+个人网站 [fe-tutorial](http://124.223.71.181:3000/) ( 施工中 🚧 )
+
+个人 UI [@nanshu/ui](http://124.223.71.181:3002/) ( 建设中 👷 )
+
+一些些 [npm package](https://www.npmjs.com/~chou209)( 扩展中 🏗 )
+
+<br />
+ 
+ 
+</div>
+
+```
+Usage: nanshu [options] [command]
+
+    _   _____    _   _______ __  ____  ____
+   / | / /   |  / | / / ___// / / / / / / /
+  /  |/ / /| | /  |/ /\__ \/ /_/ / / / / /
+ / /|  / ___ |/ /|  /___/ / __  / /_/ /_/
+/_/ |_/_/  |_/_/ |_//____/_/ /_/\____(_)
 
 Options:
   -V, --version   output the version number
@@ -25,7 +68,7 @@ cli
 ├─ .eslintrc.js
 ├─ README.md
 ├─ bin
-│  └─ YepGym.js
+│  └─ nanshu-cli.js
 ├─ lib
 │  ├─ commander.js
 │  ├─ create.js
@@ -40,5 +83,4 @@ cli
 │     └─ sign.js
 ├─ package.json
 └─ yarn.lock
-
 ```
