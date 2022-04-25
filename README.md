@@ -45,6 +45,18 @@
  
 </div>
 
+### Features
+
+- download react template
+
+### Install
+
+```
+npm install -g @nanshu/cli
+```
+
+### Preview
+
 ```
 Usage: nanshu [options] [command]
 
